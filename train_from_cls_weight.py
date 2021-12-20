@@ -122,7 +122,7 @@ if __name__ == '__main__':
     # T and N
     T = 150
 
-    N = 3
+    N = 6
 
     every_part = int(T/N)
 
