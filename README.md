@@ -22,10 +22,7 @@ python infer_RRM.py
 
 python cal_miou.py
 
-# Ours model
-
-Ours model was put into the website<>, you can download the model and evaluation.
 
 # Retrain  
 
-When you get the pseudo label on the train dataset, you can use them to train a fully-supervised semantic segmentation model, like Deeplab v1, Deeplab v2, we used the following code, WSSS_mmseg <https://github.com/Eli-YiLi/WSSS_MMSeg>,Deeplab v2<https://github.com/kazuto1011/deeplab-pytorch> thanks for their great work! 
+When you get the pseudo label on the train dataset, you can use them to train a fully-supervised semantic segmentation model, like Deeplab v1, Deeplab v2, we used the following code, WSSS_mmseg <https://github.com/Eli-YiLi/WSSS_MMSeg>, Deeplab v2 <https://github.com/kazuto1011/deeplab-pytorch> thanks for their great work! 
