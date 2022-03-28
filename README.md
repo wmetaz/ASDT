@@ -18,9 +18,6 @@ python train_from_cls_weight.py
 
 python infer_RRM.py
 
-# Evaluation
-
-python cal_miou.py
 
 
 # Retrain  
