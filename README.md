@@ -11,7 +11,7 @@ Please Change your data path in the line 43 in the train_from_cls_weight.py and 
 
 As for the pretrain model, you can refer to RRM.
 
-# Training from a pretrained classification model:
+# Training from a pretrained classification model  
 python train_from_cls_weight.py
 
 # Test
