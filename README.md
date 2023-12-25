@@ -1,5 +1,5 @@
 # ASDT
-This is the pytorch version code of ASDT. The code was based RRM <https://github.com/zbf1991/RRM>. Thanks for their nice work!
+This is the pytorch version code of TIP2023 "Weakly Supervised Semantic Segmentation via Alternate Self-Dual Teaching"(ASDT). The code was based RRM <https://github.com/zbf1991/RRM>. Thanks for their nice work!
 
 # Installation
 The project needs 1 NVIDIA 1080TI, python=3.6, pytorch=0.4.1.
@@ -23,3 +23,6 @@ python infer_RRM.py
 # Retrain  
 
 When you get the pseudo label on the train dataset, you can use them to train a fully-supervised semantic segmentation model, like Deeplab v1, Deeplab v2, we used the following code, WSSS_mmseg <https://github.com/Eli-YiLi/WSSS_MMSeg>, Deeplab v2 <https://github.com/kazuto1011/deeplab-pytorch>, thanks for their great work! 
+
+# Contact US
+If you have some questions about this project, please contact me, my email is wyzeng2019@gmail.com.
